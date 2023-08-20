@@ -13,7 +13,7 @@
 #### Pull docker image from docker hub
 `docker pull <image_name>`
 #### Run a container 
-`docker run -d -p 8080:80 --name <container_name> <image_name> ` // -p define the host and conatiner ports 
+`docker run -d -p 8080:80 --name <container_name> <image_name> ` // -p define the host and  ports 
 #### Stop a running container
 `docker stop <container_name OR ID>`
 #### Remove Image
