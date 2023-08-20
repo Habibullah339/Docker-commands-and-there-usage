@@ -1,4 +1,7 @@
 # Docker All Basic Commands
+
+## These commands use case depends on our requirements.
+
 #### Check docker version
 `docker --version`
 #### Check  available images
@@ -60,3 +63,4 @@
 `docker system df`
 #### View top processes within container
 `docker top <container_name OR ID>`
+
